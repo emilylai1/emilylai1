@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! My name is Emily Lai and my goal is to do medical research, and data science is huge part of that. I've also always been interested in statistics and I think I can take that interest a step further through data science.
 
 <!--
 **emilylai1/emilylai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
