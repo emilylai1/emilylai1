@@ -1,4 +1,7 @@
-Hello! My name is Emily Lai I was drawn to data science because I would like to do medical research and data science is huge part of that. I've also always been interested in statistics and I think I can take that interest a step further through data science.
+My name is Emily Lai I am drawn to data science because I would like to do medical research and data science is huge part of that. I've also always been interested in statistics and I think I can take that interest a step further through data science. 
+
+Skills:
+Working on Python
 
 <!--
 **emilylai1/emilylai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
